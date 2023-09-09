@@ -136,7 +136,6 @@ I would like to thank the Microverse Team.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Chandan-devs-tech/Enumerable/blob/dev/MIT.md) licensed.
-
+This project is [MIT](https://github.com/Chandan-devs-tech/Enumerable/blob/feature/enumerable/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
