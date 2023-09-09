@@ -7,4 +7,7 @@ module MyEnumerbale
         @list.any?(&block)
     end
 
+    def filter(&block)
+        @list.select(&block)
+    end
 end
